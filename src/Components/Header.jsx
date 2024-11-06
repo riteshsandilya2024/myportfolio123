@@ -23,6 +23,7 @@ const Header = () => {
     >
       <a href="#home">Home</a>
       <a href="#about">About</a>
+      <a href="#services">Services</a>
       <a href="#portfolio">Portfolio</a>
       <a href="#footer">Contact</a>
     </div>

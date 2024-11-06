@@ -123,3 +123,17 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+/* src/Components/Services.css */
+
+.services {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+  transition: all 0.3s;
+}
+
+.services:hover {
+  background-color: #f0f0f0; /* Light gray on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Slight shadow effect */
+}
+
